@@ -1,0 +1,28 @@
+sidebar:
+    homepage: "Beranda"
+    archive: "Arsip"
+    article_num: "Jumlah Artikel"
+post:
+    visitor: "Visitors"
+    views: "Views"
+    continue: "Selengkapnya"
+    older: "Older"
+    newer: "Newer"
+    qrcode: "Read this article on other devices"
+    comments_load_button: "Read Comments (Make sure disq.us, disquscdn.com and disqus.com can load properly)"    
+share:
+    article_rss: "Article RSS"
+    comment_rss: "Comment RSS"
+    toTwitter: "Bagikan ke Twitter"
+    toFacebook: "Bagikan ke Facebook"
+    toLinkedIn: "Bagikan ke LinkedIn"
+    toTelegram: "Bagikan ke Telegram"
+    toGplus: "Bagikan ke Google+"
+    toWeibo: "Bagikan ke Weibo"
+    toQQ: "Bagikan ke QQ"
+title:
+    category: "Kategori"
+    tag: "Tag"
+misc:
+    home: "Beranda"
+    theme: "Tema"
