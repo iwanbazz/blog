@@ -1,7 +1,7 @@
 ---
 title: Membuat objek titik OpenGL dengan menggunakan Xcode
 date: 2018-04-28 00:13:08
-tags:
+tags: grafika
 ---
 
 Sebagai bagian dari tugas ke-1 pada mata kuliah Grafika Komputer di Semester 6 ini, saya akan memberikan tutorial membuat objek titik OpenGL dengan menggunakan Xcode.
