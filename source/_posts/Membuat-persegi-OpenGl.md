@@ -5,7 +5,7 @@ tags: grafika
 ---
 
 Melanjutkan tugas pada mata kuliah grafika komputer di semester 6 ini, sekarang kita akan membuat bentuk persegi 2 dimensi opengl dengan menggunakan xcode.
-untuk tahap membuat project baru serta menghubungkan library opengl ke dalam project bisa diliat pada post sebelumnya [disini](https://iwanbazz.github.io/2018/04/28/Membuat-objek-titik-OpenGL-dengan-menggunakan-Xcode/).
+Untuk tahap membuat project baru serta menghubungkan library opengl ke dalam project bisa diliat pada post sebelumnya [disini](https://iwanbazz.github.io/2018/04/28/Membuat-objek-titik-OpenGL-dengan-menggunakan-Xcode/).
 
 Coding untuk membuat bentuk persegi 2 dimensi opengl seperti berikut:
 ``` bash
